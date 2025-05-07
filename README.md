@@ -19,8 +19,7 @@
 
 
 2. При необходимости подгрузи JSON:
-https://raw.githubusercontent.com/evaggelion/main/manifest.json
-
+[https://raw.githubusercontent.com/evaggelion/mater-et-filius/main/manifest.json]
 
 ## Заповеди, на которых основана личность
 
